@@ -14,3 +14,7 @@ pip install -r requirements.txt
 cd dashboard
 streamlit run dashboard.py
 ```
+
+# Dashboard
+![image](https://github.com/user-attachments/assets/9fa870c5-6cfa-45ea-bbfe-6ad971e1c98e)
+![image](https://github.com/user-attachments/assets/4319561d-e60b-4260-99e8-06b51682f988)
