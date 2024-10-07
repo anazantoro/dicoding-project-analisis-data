@@ -8,21 +8,21 @@
   python -m venv venv
   ```
 3. Aktivasi virtual environment
-   ```
-   source venv/Scripts/activate
-   ```
+  ```
+  source venv/Scripts/activate
+  ```
 3. Install library sesuai dengan apa yang ada di **requirements.txt**
   ```
   pip install -r requirements.txt
   ```
 4. Masuk ke direktori dashboard
-   ```
-   cd dashboard.py
-   ```
+  ```
+  cd dashboard.py
+  ```
 5. Jalankan Streamlit
-   ```
-   streamlit run dashboard.py
-   ```
+  ```
+  streamlit run dashboard.py
+  ```
 
 # Dashboard
 ![image](https://github.com/user-attachments/assets/9fa870c5-6cfa-45ea-bbfe-6ad971e1c98e)
