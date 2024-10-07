@@ -5,28 +5,52 @@
 link github_repo : https://github.com/anazantoro/dicoding-project-analisis-data <br>
 link colab_notebook : https://colab.research.google.com/drive/1iA_MlL4dHzPCdtOY8J_eaKohD-7K23yH?usp=sharing
 
-## Setup Project - Terminal
-1. Download file project dari repository ini atau bisa gunakan git clone
+## Mengunduh File
+  Download file project dari repository ini atau bisa gunakan git clone
   ```
   git clone https://github.com/anazantoro/dicoding-project-analisis-data.git
   ```
-2. Buat virtual environment
+
+## Setup Notebook - Local
+1. Download file project dari direktori dicoding-project-analisis-data
+   ```
+   Proyek Analisis Data_Dicoding.ipynb
+   ```
+2. Buka file menggunakan VSCode
+3. install library yang dibutuhkan di terminal VSCode
+   ```
+   pip install pandas
+   pip install plotly
+   ```
+## Setup Notebook - Colab
+1. Buka link
+  ```
+  https://colab.research.google.com/drive/1iA_MlL4dHzPCdtOY8J_eaKohD-7K23yH?usp=sharing
+  ```
+2. Koneksi ke Runtime
+   ![image](https://github.com/user-attachments/assets/3226138b-d080-4c03-9422-087fd86eed5a)
+3. Jalankan Project
+  ```
+  CTRL + F9
+  ```
+## Setup Streamlit - Terminal
+1. Buat virtual environment
   ```
   python -m venv venv
   ```
-3. Aktivasi virtual environment
+2. Aktivasi virtual environment
   ```
   source venv/Scripts/activate
   ```
-4. Install library sesuai dengan apa yang ada di **requirements.txt**
+3. Install library sesuai dengan apa yang ada di **requirements.txt**
   ```
   pip install -r requirements.txt
   ```
-5. Masuk ke direktori dashboard
+4. Masuk ke direktori dashboard
   ```
   cd dashboard.py
   ```
-6. Jalankan Streamlit
+5. Jalankan Streamlit
   ```
   streamlit run dashboard.py
   ```
