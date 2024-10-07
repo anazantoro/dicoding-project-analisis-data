@@ -1,5 +1,9 @@
 # DICODING ANALISIS DATA - PROJECT - BIKE SHARING 
-##### Submission akhir dari dicoding dengan salah satu dataset yaitu **Bike Sharing**, pada project ini diberlakukan analisis rental sepeda dan deployment menggunakan dashboard Streamlit, ada beberapa hal yang dilakukan dalam analisis seperti memahami data untuk menumbuhkan pertanyaan permasalahan, eksplorasi data, hingga visualisasi data untuk memenuhi pertanyaan yang telah ditentukan. Akses dashboard pada link berikut : https://firzian-ananta-dicoding-project.streamlit.app/
+##### Submission akhir dari dicoding dengan salah satu dataset yaitu **Bike Sharing**, pada project ini diberlakukan analisis rental sepeda dan deployment menggunakan dashboard Streamlit, ada beberapa hal yang dilakukan dalam analisis seperti memahami data untuk menumbuhkan pertanyaan permasalahan, eksplorasi data, hingga visualisasi data untuk memenuhi pertanyaan yang telah ditentukan. Akses project pada link berikut : 
+
+a. link streamlit : https://firzian-ananta-dicoding-project.streamlit.app/
+b. link github_repo : https://github.com/anazantoro/dicoding-project-analisis-data
+c. link colab_notebook : https://colab.research.google.com/drive/1iA_MlL4dHzPCdtOY8J_eaKohD-7K23yH?usp=sharing
 
 ## Setup Project - Terminal
 1. Download file project dari repository ini atau bisa gunakan git clone
