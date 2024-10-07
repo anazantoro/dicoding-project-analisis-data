@@ -27,8 +27,8 @@ link colab_notebook : https://colab.research.google.com/drive/1iA_MlL4dHzPCdtOY8
   ```
   https://colab.research.google.com/drive/1iA_MlL4dHzPCdtOY8J_eaKohD-7K23yH?usp=sharing
   ```
-2. Koneksi ke Runtime
-   ![image](https://github.com/user-attachments/assets/3226138b-d080-4c03-9422-087fd86eed5a) <br>
+2. Koneksi ke Runtime <br>
+   ![image](https://github.com/user-attachments/assets/3226138b-d080-4c03-9422-087fd86eed5a) 
 3. Jalankan Project
   ```
   CTRL + F9
