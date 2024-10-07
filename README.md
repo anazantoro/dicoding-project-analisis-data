@@ -3,7 +3,10 @@
 
 ## Setup Project - Terminal
 1. Download file project dari repository ini atau bisa gunakan git clone
-2. Buat virtual environment
+  ```
+  git clone https://github.com/anazantoro/dicoding-project-analisis-data.git
+  ```
+3. Buat virtual environment
   ```
   python -m venv venv
   ```
