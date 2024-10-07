@@ -6,7 +6,7 @@
   ```
   git clone https://github.com/anazantoro/dicoding-project-analisis-data.git
   ```
-3. Buat virtual environment
+2. Buat virtual environment
   ```
   python -m venv venv
   ```
@@ -14,15 +14,15 @@
   ```
   source venv/Scripts/activate
   ```
-3. Install library sesuai dengan apa yang ada di **requirements.txt**
+4. Install library sesuai dengan apa yang ada di **requirements.txt**
   ```
   pip install -r requirements.txt
   ```
-4. Masuk ke direktori dashboard
+5. Masuk ke direktori dashboard
   ```
   cd dashboard.py
   ```
-5. Jalankan Streamlit
+6. Jalankan Streamlit
   ```
   streamlit run dashboard.py
   ```
